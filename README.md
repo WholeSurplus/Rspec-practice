@@ -1,12 +1,9 @@
-# FazlaGıda Rspec Gem Çalışması
+# FazlaGıda Rspec Gem Pratice
+This repository was created for the Back-end developer team to test and learn the RSPEC gem.
 
-Bu depo FazlaGıda Back-end developer ekibinin rspec gem'ini test edip, öğrenmesi amacıyla oluşturulmuştur. Her testing nasıl
-yazıldığını anlatan bir bölüm oluşturduk. Anlaşışmayan yerler için link ekledik. 
+We used [Rspec](https://github.com/rspec/rspec-rails), [factory-bot](https://github.com/thoughtbot/factory_bot_rails), [omniauth](https://github.com/omniauth/omniauth), [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) gems. 
 
-Bu projede rspec, factory-bot, omniauth, doorkeeper gem'lerini kullanarak bir proje ortaya çıkartmayı hedefledik. 
+Why did we use these gems?(In Coming)
 
-# Proje Konusu
-
-- Kullanıcıların API kullanarak article oluşturup, silip, düzenleyebildikleri bir uygulama olacak. Kullanıcılar Github ile giriş
-yapabilecekleri gibi sisteme kayıt olarakta giriş yapabilecekler. 
-
+# What is the content of Project
+- In Coming
