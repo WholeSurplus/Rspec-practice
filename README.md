@@ -1,24 +1,12 @@
-# README
+# FazlaGıda Rspec Gem Çalışması
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bu depo FazlaGıda Back-end developer ekibinin rspec gem'ini test edip, öğrenmesi amacıyla oluşturulmuştur. Her testing nasıl
+yazıldığını anlatan bir bölüm oluşturduk. Anlaşışmayan yerler için link ekledik. 
 
-Things you may want to cover:
+Bu projede rspec, factory-bot, omniauth, doorkeeper gem'lerini kullanarak bir proje ortaya çıkartmayı hedefledik. 
 
-* Ruby version
+# Proje Konusu
 
-* System dependencies
+- Kullanıcıların API kullanarak article oluşturup, silip, düzenleyebildikleri bir uygulama olacak. Kullanıcılar Github ile giriş
+yapabilecekleri gibi sisteme kayıt olarakta giriş yapabilecekler. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
