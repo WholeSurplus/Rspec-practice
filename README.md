@@ -1,24 +1,9 @@
-# README
+# FazlaGıda Rspec Gem Pratice
+This repository was created for the Back-end developer team to test and learn the RSPEC gem.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+We used [Rspec](https://github.com/rspec/rspec-rails), [factory-bot](https://github.com/thoughtbot/factory_bot_rails), [omniauth](https://github.com/omniauth/omniauth), [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) gems. 
 
-Things you may want to cover:
+Why did we use these gems?(In Coming)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# What is the content of Project
+- In Coming
