@@ -1,4 +1,4 @@
-###Article Index 
+### Article Index 
 The test article index is a simple list of articles. We get request (GET method) to articles_controller#index. So we check correct route with the test.
 ```ruby
 it 'routes to articles#index' do
@@ -6,7 +6,7 @@ it 'routes to articles#index' do
     end
 ```
 
-###Article Show
+### Article Show
 We get request (GET method) for the article as id equal 1 to articles_controller#show. So we check correct route with the test.
 ```ruby
  it 'routes to articles#show' do
@@ -14,7 +14,7 @@ We get request (GET method) for the article as id equal 1 to articles_controller
 end
 ```
 
-###Article Create
+### Article Create
 We get request (POST method) for creating new article to articles_controller#create. So we check correct route with the test.
 ```ruby
  it 'should route to articles create' do
@@ -22,7 +22,7 @@ We get request (POST method) for creating new article to articles_controller#cre
 end
 ```
 
-###Article Update
+### Article Update
 We get request (PUT or PATCH method) for updating the article to articles_controller#update. So we check correct route with the test.
 ```ruby
 it 'should route to article update' do
@@ -31,7 +31,7 @@ it 'should route to article update' do
 end
 ```
 
-###Article Destroy
+### Article Destroy
 We get request (DELETE method ) for the article as id equal 1 to articles_controller#destroy. So we check correct route with the test.
 ```ruby
  it 'should route to articles destroy' do
